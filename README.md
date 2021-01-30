@@ -1,2 +1,2 @@
 # Blurry-Image-Noise-Removal
-Blurry Image Noise Removal on Matlab
+You can check the original image on issues.
